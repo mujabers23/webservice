@@ -1,0 +1,438 @@
+{
+	"HANDPHONE": [
+	{
+		"IDProduk":"IP001",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone 5",
+		"Deskripsi":"Menggunakan INTERNAL 8GB",
+		"BERAT":"1KG",
+		"HARGA":"1000000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 8GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 8GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+  
+	{
+		"IDProduk":"IP002",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone 6s",
+		"Deskripsi":"Menggunakan INTERNAL 16GB",
+		"BERAT":"1KG",
+		"HARGA":"2000000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 16GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 16GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"IP003",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone 7",
+		"Deskripsi":"Menggunakan INTERNAL 32GB",
+		"BERAT":"1KG",
+		"HARGA":"2500000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 32GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 32GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+
+	{
+		"IDProduk":"IP004",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone 7+",
+		"Deskripsi":"Menggunakan INTERNAL 128GB",
+		"BERAT":"1KG",
+		"HARGA":"3000000",
+		"Stok":"5",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 128GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 128GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},	
+  
+ 	{
+		"IDProduk":"IP005",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone 8",
+		"Deskripsi":"Menggunakan INTERNAL 64GB",
+		"BERAT":"1KG",
+		"HARGA":"3200000",
+		"Stok":"6",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"IP006",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone 8+",
+		"Deskripsi":"Menggunakan INTERNAL 64GB",
+		"BERAT":"1KG",
+		"HARGA":"3600000",
+		"Stok":"8",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"IP007",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone X",
+		"Deskripsi":"Menggunakan INTERNAL 64GB",
+		"BERAT":"1KG",
+		"HARGA":"4000000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"IP008",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone Xs",
+		"Deskripsi":"Menggunakan INTERNAL 64GB",
+		"BERAT":"1KG",
+		"HARGA":"4500000",
+		"Stok":"3",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"IP009",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone Xr",
+		"Deskripsi":"Menggunakan INTERNAL 64GB",
+		"BERAT":"1KG",
+		"HARGA":"5000000",
+		"Stok":"8",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+
+	{
+		"IDProduk":"IP010",
+		"Kategori":"IPHONE",
+		"NamaProduk":"Iphone XS MAX",
+		"Deskripsi":"Menggunakan INTERNAL 64GB",
+		"BERAT":"1KG",
+		"HARGA":"5800000",
+		"Stok":"5",
+		"Atribut": [
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"Apple",
+			"Tipe":"4G 64GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"AND001",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi 4x",
+		"Deskripsi":"Menggunakan RAM 3GB",
+		"BERAT":"1KG",
+		"HARGA":"600000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 3GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 3GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"AND002",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi NOTE 4X",
+		"Deskripsi":"Menggunakan RAM 4GB",
+		"BERAT":"1KG",
+		"HARGA":"700000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 4GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 4GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"AND003",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi 5",
+		"Deskripsi":"Menggunakan RAM 2GB",
+		"BERAT":"1KG",
+		"HARGA":"600000",
+		"Stok":"2",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 2GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 2GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	{
+		"IDProduk":"AND004",
+		"Kategori":"Android",
+		"NamaProduk":"MI 5",
+		"Deskripsi":"Menggunakan RAM 3GB",
+		"BERAT":"1KG",
+		"HARGA":"700000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 3GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 3GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"AND005",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi NOTE 5",
+		"Deskripsi":"Menggunakan RAM 3GB",
+		"BERAT":"1KG",
+		"HARGA":"800000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 3GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 3GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+
+	{
+		"IDProduk":"AND006",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi NOTE 5 PRO",
+		"Deskripsi":"Menggunakan RAM 4GB",
+		"BERAT":"1KG",
+		"HARGA":"1000000",
+		"Stok":"5",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 4GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 4GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"AND007",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi NOTE 7",
+		"Deskripsi":"Menggunakan RAM 4GB",
+		"BERAT":"1KG",
+		"HARGA":"1500000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 4GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 4GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"AND008",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi NOTE 8",
+		"Deskripsi":"Menggunakan RAM 6GB",
+		"BERAT":"1KG",
+		"HARGA":"2000000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 6GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 6GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+
+	{
+		"IDProduk":"AND009",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi NOTE 9",
+		"Deskripsi":"Menggunakan RAM 6GB",
+		"BERAT":"1KG",
+		"HARGA":"2500000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 6GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 6GB",
+			"Warna":"Putih"
+		}
+		  ]
+	},
+	
+	{
+		"IDProduk":"AND010",
+		"Kategori":"Android",
+		"NamaProduk":"Redmi NOTE 10",
+		"Deskripsi":"Menggunakan RAM 6GB",
+		"BERAT":"1KG",
+		"HARGA":"3000000",
+		"Stok":"4",
+		"Atribut": [
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 6GB",
+			"Warna":"Hitam"
+		},
+		{
+			"Merk":"XIAOMI",
+			"Tipe":"4G RAM 6GB",
+			"Warna":"Putih"
+		}
+		  ]
+	}
+  ]
+}
